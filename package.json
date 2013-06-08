@@ -1,0 +1,20 @@
+{
+  "name": "tinseth",
+  "version": "1.0.0",
+  "description": "Tinseth IBU formula",
+  "main": "tinseth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/jonpacker/tinseth"
+  },
+  "keywords": [
+    "tinseth",
+    "ibu",
+    "formula"
+  ],
+  "author": "Jon Packer <contact@jonpacker.com>",
+  "license": "MIT"
+}
